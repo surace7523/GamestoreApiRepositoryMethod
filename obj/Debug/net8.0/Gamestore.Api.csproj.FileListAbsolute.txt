@@ -23,3 +23,4 @@ D:\vs_dotnet\GameStore\Gamestore.Api\obj\Debug\net8.0\refint\Gamestore.Api.dll
 D:\vs_dotnet\GameStore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.pdb
 D:\vs_dotnet\GameStore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.genruntimeconfig.cache
 D:\vs_dotnet\GameStore\Gamestore.Api\obj\Debug\net8.0\ref\Gamestore.Api.dll
+D:\vs_dotnet\GameStore\Gamestore.Api\obj\Debug\net8.0\Gamestore.Api.sourcelink.json

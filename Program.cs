@@ -62,6 +62,8 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
         var app = builder.Build();
 
+
+        //get api
         app.MapGet("/games", () => games);
 
         app.MapGet("/games/{id}", (int id) =>
@@ -81,7 +83,7 @@ internal class Program
         })
         .WithName("GetGame");
 
-
+        //post api
         app.MapPost("/games", (Game game) =>
         {
             game.Id = games.Max(game => game.Id) + 1;
@@ -92,6 +94,8 @@ internal class Program
 
         });
 
+
+        //update api
         app.MapPut("/games/{id}", (int id, Game updatedGame) =>
         {
             Game? existingGame = games.Find(game => game.Id == id);
@@ -112,7 +116,7 @@ internal class Program
 
         });
 
-
+        //delete api
         app.MapDelete("/games/{id}", (int id) =>
         {
 
