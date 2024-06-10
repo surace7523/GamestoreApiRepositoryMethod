@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YQ4L0HNxzTCNf9wDmLtGIQIFhP3Hc7Wax/qlnQMk88CQRb03m/eINtzJ2sLHyK1SkWq+2K4ZjAqlQAZvRLEv5Q==",
+  "dgSpecHash": "UQ8yY1Bch1chUUQkIH246OQE8vJyTuJsACVRx2Fl4KYrX3fZXWLvjYdfWuw+nk9tecnqHvDnDcWnuJ8Z+a9C7g==",
   "success": true,
   "projectFilePath": "D:\\vs_dotnet\\GameStore\\Gamestore.Api\\Gamestore.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alienware\\.nuget\\packages\\bondx.minimalapi.extensions\\1.0.1\\bondx.minimalapi.extensions.1.0.1.nupkg.sha512",
+    "C:\\Users\\Alienware\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alienware\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Alienware\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\Alienware\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
